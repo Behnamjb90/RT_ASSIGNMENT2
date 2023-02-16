@@ -60,4 +60,7 @@ NodeC
 
 - A launch file that  starts the whole simulation. Also, in this launch file the value for the frequency at which node C publishes the information is set.
 
+###### Flowchart of the Project
+
+
 
