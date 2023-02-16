@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+
+    <param name="print_interval" value= "5" />
+
+    <include file="$(find assignment_2_2022)/launch/assignment1.launch" />
+
+    <node pkg="assignment2_rt1" type="NodeA.py" name="NodeA" launch-prefix="gnome-terminal --command" />
+    <node pkg="assignment2_rt1" type="NodeB.py" name="NodeB" launch-prefix="gnome-terminal --command" />
+    <node pkg="assignment2_rt1" type="NodeC.py" name="NodeC" launch-prefix="gnome-terminal --command" />   
+</launch>
