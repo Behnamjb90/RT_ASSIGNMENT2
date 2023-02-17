@@ -64,3 +64,8 @@ NodeC
 
 
 
+<img src="https://github.com/Behnamjb90/RT_ASSIGNMENT2/blob/main/assignment2_rt1/diagram.jpeg" >
+
+
+
+
